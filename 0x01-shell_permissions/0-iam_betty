@@ -1,2 +1,3 @@
-su: user betty does not exist
+#!/bin/bash
+su betty
 
